@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamthiru
-- 👀 I’m interested in Java, Spring Boot
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Java, Spring Boot, React, Vue
+- 🌱 I’m currently learning React & Vue
 - 📫 How to reach me https://www.instagram.com/iamstmvasan/?hl=en
 
 <!---
